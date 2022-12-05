@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Layout Codelab</string>
+    <string name="pragraph">Signapore officialy the Republic of Signapore,and often referred to as the Lion City, the Garden City,and the Red Dot,is a global city in Southeast Asia and the World is onnly island vity-state.it lies one degree(137Km)north of the equator,at the southernmost tip of continental Asia and peninsular Malaysia,with indonesis`s Riau island to the south.Signapore`s territory consist of the diamond-shaped main island and 62 islets</string>
+    <string name="setting">Setting</string>
+    <string name="camera">Camera</string>
+    <string name="f_4_16s_iso_200">f/4 16s ISO 200</string>
+    <string name="upload">UPLOAD</string>
+    <string name="discard">DISCARD</string>
+    <string name="signapore">Signapore</string>
+    <string name="signapora">Signapora</string>
+    <string name="lec_ica_m_typ_240">Lec]ica M Typ 240</string>
+    <string name="flotingbutton">star</string>
+
+</resources>
